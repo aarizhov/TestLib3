@@ -7,7 +7,7 @@
 
 import UIKit
 
-class TestLib3: NSObject {
+public class TestLib3: NSObject {
     
     static func test() {
         print("test1")
