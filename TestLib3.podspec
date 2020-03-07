@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TestLib3'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'Just first test my cocapods111'
   s.swift_versions = ['5.0', '5.1']
 
