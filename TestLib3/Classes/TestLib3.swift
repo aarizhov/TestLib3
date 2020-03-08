@@ -9,7 +9,7 @@ import UIKit
 
 public class TestLib3: NSObject {
     
-    static func test() {
+    public static func test() {
         print("test1")
     }
 }
