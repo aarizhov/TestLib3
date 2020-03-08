@@ -13,6 +13,7 @@
 		37AD612EDE2222AA028B70A84D2E3443 /* Pods-TestLib3_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E90B68F8FEDCE208F6E55C668E0BEA2E /* Pods-TestLib3_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		849F611AAEF797B580F6A29E33386270 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		D602E6502411AB3E00E5459F /* TestLib3.swift in Sources */ = {isa = PBXBuildFile; fileRef = D602E64F2411AB3E00E5459F /* TestLib3.swift */; };
+		D63025A5241477D20034CA96 /* TestLib3.swift in Sources */ = {isa = PBXBuildFile; fileRef = D602E64F2411AB3E00E5459F /* TestLib3.swift */; };
 		EC891344B1A0225678F5F01F0E9D52DF /* TestLib3-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B262DAFA88999152461A406074B3955E /* TestLib3-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
@@ -299,6 +300,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2DE89ED1428724B1B11963563A20B59F /* TestLib3-dummy.m in Sources */,
+				D63025A5241477D20034CA96 /* TestLib3.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
